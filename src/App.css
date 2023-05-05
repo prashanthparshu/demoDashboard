@@ -1,0 +1,32 @@
+.Month_tran_span_green {
+  color: green;
+}
+
+.Month_tran_span_red {
+  color: red;
+}
+
+.ActivePlans_Bar_main {
+  margin: 30px 25px;
+}
+.ActivePlans_Bar {
+  border-radius: 20px;
+}
+
+/* .Notification_main {
+  width: 100vw;
+} */
+.Notification_a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.Notification_content {
+  margin: 10px 5px;
+  font-size: 15px;
+}
+
+.AppBar_Container {
+  background-color: #fff;
+  color: black;
+}
